@@ -7,6 +7,7 @@
 - Golang (Work in Progress)
 - Dart (Work in Progress)
 - Python (Work in Progress)
+- JavaScript (Work in Progress)
 
 ## 🖼️ Frameworks
 
