@@ -4,18 +4,18 @@
 
 ## 🗺️ Languages
 
-* Golang (Work in Progress)
-* Dart (Work in Progress)
-* Python (Work in Progress)
+- Golang (Work in Progress)
+- Dart (Work in Progress)
+- Python (Work in Progress)
 
 ## 🖼️ Frameworks
 
-* Flutter (Work in Progress)
+- Flutter (Work in Progress)
 
 ## 💻 Technologies
 
-* Kubernetes (Work in Progress)
-* Docker (Work in Progress)
+- Kubernetes (Work in Progress)
+- Docker (Work in Progress)
 
 ## 🙋‍♀️🙋‍♂️ Contributions
 
@@ -25,6 +25,6 @@ Additions to existing courses, new courses, spelling and grammar corrections, an
 
 The reasoning behind this course is that it is:
 
-* Beneficial to me because teaching something **well** means truly understanding it.
-* Beneficial to the community by providing a standard for making open source learning courses.
-* Beneficial to you (the learner) by providing a direct course rather than other GitHub projects that merely point to collections of good classes.
+- Beneficial to me because teaching something **well** means truly understanding it.
+- Beneficial to the community by providing a standard for making open source learning courses.
+- Beneficial to you (the learner) by providing a direct course rather than other GitHub projects that merely point to collections of good classes.
