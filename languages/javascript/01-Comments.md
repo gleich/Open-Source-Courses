@@ -9,6 +9,7 @@ The single line comment syntax, ```//```, tells the compiler to ignore all remai
 console.log("But this isn't a comment!");
 // This is another comment
 ```
+_[comments.js](code/comments.js)_
 
 ## Multi-line Comments
 
@@ -23,7 +24,7 @@ console.log("Not a comment"/*It won't print me, I'm a comment!*/);
  * NOT syntax.
  */
 ```
-
+_[comments.js](code/comments.js)_
 ```
 Not a comment 
 ```
