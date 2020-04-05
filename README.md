@@ -19,11 +19,11 @@
 
 ## 🙋‍♀️🙋‍♂️ Contributions
 
-Add a course, contribute to a course, contribute anything helpful! Thank you contributors!
+Additions to existing courses, new courses, spelling and grammar corrections, and opening issues are all valid contribution options.
 
 ## ❓Why
 
-The reasoning behind this:
+The reasoning behind this course is that it is:
 * Beneficial to me because teaching something **well** means truly understanding it.
 * Beneficial to the community by providing a standard for making open source learning courses.
 * Beneficial to you (the learner) by providing a direct course rather than other GitHub projects that merely point to collections of good classes.
