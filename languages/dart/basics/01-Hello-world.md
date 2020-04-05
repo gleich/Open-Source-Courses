@@ -8,6 +8,6 @@ void main() {
 }
 ```
 
-_helloWorld.dart_
+_[helloWorld.dart](code/helloWorld.dart)_
 
 Whats important to us in this script is `print('Hello World!');`, which is what actually prints `Hello World` to the screen. `void` and `main` will be explained more in other lessons. All you need to know for now is that `print();` prints something to the console.
