@@ -1,6 +1,6 @@
 # Open Source Courses
 
-👋 Hello! This repository is a collection of 100% open source coding lessons.
+👋 Hello! This repository is a collection of completely open source coding lessons.
 
 ## 🗺️ Languages
 
@@ -23,8 +23,7 @@ Add a course, contribute to a course, contribute anything helpful! Thank you con
 
 ## ❓Why
 
-There a few reasons for me making this:
-
-* Personally, I find that teaching something **well** means truly knowing it. So teaching technologies in these courses has forced me to really understand them.
-* Create a standard format for learning courses so its easy to reference them in the future
-* 100% open source courses compared to other projects on GitHub that are merely collections of good classes.
+The reasoning behind this:
+* Beneficial to me because teaching something **well** means truly understanding it.
+* Beneficial to the community by providing a standard for making open source learning courses.
+* Beneficial to you (the learner) by providing a direct course rather than other GitHub projects that merely point to collections of good classes.
