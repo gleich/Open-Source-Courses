@@ -14,8 +14,6 @@ void main() {
 
 _[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
 
-### 📤 Output
-
 ```
 I am printing a string!
 I am printing another string!
@@ -34,8 +32,6 @@ void main() {
 ```
 
 _[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
-
-### 📤 Output
 
 ```
 10
@@ -56,8 +52,6 @@ void main() {
 
 _[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
 
-### 📤 Output
-
 ```
 10.30
 1.0
@@ -76,8 +70,6 @@ void main() {
 ```
 
 _[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
-
-### 📤 Output
 
 ```
 true

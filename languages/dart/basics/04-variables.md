@@ -20,8 +20,6 @@ void main() {
 
 _[variables.dart](code/variables.dart)_
 
-### 📤 Output
-
 ```
 Matthew
 Caleb
@@ -43,8 +41,6 @@ void main() {
 ```
 
 _[variables.dart](code/variables.dart)_
-
-### 📤 Output
 
 ```
 16

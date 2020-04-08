@@ -4,10 +4,14 @@ Welcome to the dart programming language! Lets get started. Below is a simple da
 
 ```dart
 void main() {
-    print('Hello world!');
+    print('Hello World!');
 }
 ```
 
 _[helloWorld.dart](code/helloWorld.dart)_
+
+```
+Hello World!
+```
 
 Whats important to us in this script is `print('Hello World!');`, which is what actually prints `Hello World` to the screen. `void` and `main` will be explained more in other lessons. All you need to know for now is that `print();` prints something to the console.

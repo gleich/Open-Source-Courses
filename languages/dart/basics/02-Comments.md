@@ -18,6 +18,9 @@ void main() {
 
 _[comments.dart](code/comments.dart)_
 
+```
+```
+
 Anything that comes after `//` on a line will a comment
 
 ## Multi-line Comments
@@ -35,5 +38,8 @@ void main() {
 ```
 
 _[comments.dart](code/comments.dart)_
+
+```
+```
 
 Anything in between `/*` and `*/`, no matter the line, will be a comment.
