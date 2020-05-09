@@ -1,4 +1,4 @@
-# Basic Primitive Datatypes
+# 03 Basic Primitive Datatypes
 
 ## String
 
@@ -12,7 +12,7 @@ void main() {
 }
 ```
 
-_[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
+_[string.dart](code/Basic-Primitive-Datatypes/string.dart)_
 
 ```
 I am printing a string!
@@ -31,7 +31,7 @@ void main() {
 }
 ```
 
-_[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
+_[int.dart](code/Basic-Primitive-Datatypes/int.dart)_
 
 ```
 10
@@ -50,7 +50,7 @@ void main() {
 }
 ```
 
-_[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
+_[double.dart](code/Basic-Primitive-Datatypes/double.dart)_
 
 ```
 10.30
@@ -69,7 +69,7 @@ void main() {
 }
 ```
 
-_[basicPrimitiveDatatypes.dart](code/basicPrimitiveDatatypes.dart)_
+_[bool.dart](code/Basic-Primitive-Datatypes/bool.dart)_
 
 ```
 true
