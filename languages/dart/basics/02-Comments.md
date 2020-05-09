@@ -1,4 +1,4 @@
-# Comments
+# 02 Comments
 
 Comments in any language are used to explain the code you are writing. You can put anything you want in a comment. There are two types of comments in dart:
 
@@ -8,15 +8,15 @@ Used for quick explanations
 
 ```dart
 void main() {
-    // Here is a single line comment
+  // Here is a single line comment
 
-    // First line
-    // Second line
-    // Third line
+  // First line
+  // Second line
+  // Third line
 }
 ```
 
-_[comments.dart](code/comments.dart)_
+_[singleLine.dart](code/Comments/singleLine.dart)_
 
 ```
 ```
@@ -29,15 +29,15 @@ Used for longer explanations
 
 ```dart
 void main() {
-    /*
+  /*
     So
     many
     lines!
-    */
+  */
 }
 ```
 
-_[comments.dart](code/comments.dart)_
+_[multiLine.dart](code/Comments/multiLine.dart)_
 
 ```
 ```

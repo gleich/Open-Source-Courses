@@ -1,4 +1,4 @@
-# Variables
+# 04 Variables
 
 Variables, just like in math, serve as an alias for a value. There are few different types of variables in dart as showcased below. When naming a variable in dart the names should be formatted in something called camel case. Camel case is a formatting scheme where the fist letter of every word, except for the first one word, is capital.
 
@@ -8,17 +8,17 @@ Var is the simplest form of a variable. With a `var` the variable can always be 
 
 ```dart
 void main() {
-    // var
-    var firstName = "Matthew";
-    print(firstName);
+  // var
+  var firstName = "Matthew";
+  print(firstName);
 
-    // Changing the value of a var
-    firstName = "Caleb";
-    print(firstName);
+  // Changing the value of a var
+  firstName = "Caleb";
+  print(firstName);
 }
 ```
 
-_[variables.dart](code/variables.dart)_
+_[var.dart](code/Variables/var.dart)_
 
 ```
 Matthew
@@ -29,18 +29,18 @@ You can also declare a var by stating the type instead of using `var`. This lock
 
 ```dart
 void main() {
-    // Defining the type of a var
-    int age = 16;
-    print(age);
+  // Defining the type of a var
+  int age = 16;
+  print(age);
 
-    // Because we declared the value of age to be an int,
-    // we can only change the value to another int
-    age = 15;
-    print(age);
+  // Because we declared the value of age to be an int,
+  // we can only change the value to another int
+  age = 15;
+  print(age);
 }
 ```
 
-_[variables.dart](code/variables.dart)_
+_[varDefined.dart](code/Variables/varDefined.dart)_
 
 ```
 16

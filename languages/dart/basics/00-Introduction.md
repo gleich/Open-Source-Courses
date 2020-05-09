@@ -1,4 +1,4 @@
-# Introduction
+# 00 Introduction
 
 Hello! Before you get started there a few basic things we need to go over. Please see [lessonStructure.md](../../../lessonStructure.md). Below are also a few useful links:
 
